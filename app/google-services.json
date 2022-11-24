@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41865813937",
+    "project_id": "nano-c9f49",
+    "storage_bucket": "nano-c9f49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41865813937:android:3e0de5061f00d38d23a790",
+        "android_client_info": {
+          "package_name": "com.must.nano4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41865813937-frvt5g51rtae55h7rb2v3hvgs7t5npn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkoLYGe0v1AMYwCzJDNa9DcZR3lbC2Z30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41865813937-frvt5g51rtae55h7rb2v3hvgs7t5npn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
